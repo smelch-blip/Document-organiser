@@ -1,0 +1,7 @@
+{
+  "inputFolder": "./InputDrop",
+  "outputFolder": "./SortedFiles",
+  "aiProvider": "openai",
+  "fileMode": "move",
+  "categories": ["Case Study", "Point of View", "Proposal", "Presentation", "Report", "Other"]
+}
