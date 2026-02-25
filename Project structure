@@ -1,0 +1,5 @@
+docsort-ai/
+  requirements.txt
+  config.json
+  docsort.py
+  README.md
